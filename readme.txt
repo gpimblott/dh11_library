@@ -1,9 +1,9 @@
-DH11
+DHT11
 
 ==========
 
 
-DH11 is an [Arduino](http://arduino.cc) library for DH11 sensors. 
+DHT11 is an [Arduino](http://arduino.cc) library for DHT11 temporature and humidity sensors. 
 
 The code is based on the library by Rob Tilart -  which appears to have an issue with the 
 checksum checking.  I have also removed unused code.
