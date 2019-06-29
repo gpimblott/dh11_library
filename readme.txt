@@ -3,7 +3,7 @@ DHT11
 ==========
 
 
-DHT11 is an [Arduino](http://arduino.cc) library for DHT11 temporature and humidity sensors. 
+DHT11 is an [Arduino](http://arduino.cc) library for DHT11 temperature and humidity sensors. 
 
 The code is based on the library by Rob Tilart -  which appears to have an issue with the 
 checksum checking.  I have also removed unused code.
@@ -14,7 +14,7 @@ Documentation
 
 -------------
 
-The libary is simple to use 
+Simple example of how to use the library ...
 
 
 #include <dht.h>
